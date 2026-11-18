@@ -96,4 +96,4 @@ Full Adders are fundamental building blocks in digital arithmetic circuits and a
 - Ripple Carry Adders.
 - Multiply-Accumulate (MAC) datapaths.
 - Digital signal processing hardware.
-- FPGA-based computing architectures.<img width="118" height="47" alt="image" src="https://github.com/user-attachments/assets/02ee6899-efeb-4d34-abfa-d2fa9e66cd54" />
+- FPGA-based computing architectures.
