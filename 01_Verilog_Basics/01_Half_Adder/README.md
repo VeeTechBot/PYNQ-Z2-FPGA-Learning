@@ -26,7 +26,7 @@ A Verilog testbench was developed to verify all four possible input combinations
 ## Simulation Results
 Behavioral simulation completed successfully using Vivado Simulator.
 
-![Half Adder Simulation Waveform](half_adder_waveform.png)
+![Half Adder Simulation Waveform](Simulation_Waveform.png)
 
 ## Tools Used
 - AMD Vivado 2025.2
